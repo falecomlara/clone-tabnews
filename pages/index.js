@@ -2,7 +2,7 @@ function Home() {
   return (
     <>
       <h1>
-        <center>Minhas mensagens MAIS honestas no Curso.Dev:</center>
+        <center>Meus commits MAIS honestos no Curso.Dev:</center>
       </h1>
       <p />
       <h2>
