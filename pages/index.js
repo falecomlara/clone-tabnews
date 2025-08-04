@@ -6,10 +6,12 @@ function Home() {
       </h1>
       <p />
       <h2>
-        git commit -m "funcionou, mas não sei por quê"<br />
-        git commit -m "commitando antes que eu estrague ainda mais"<br />
+        git commit -m "o primeiro commit a gente nunca esquece"<br />
+        git commit -m "commitado no Curso.Dev"<br />
+        git commit -m "commitando antes que eu estrague algo"<br />
         git commit -m "não me pergunte como isso funciona"<br />
-        git commit -m "arrumei tudo, acho"<br />
+        git commit -m "testando o Voltando no Tempo"<br />
+        git commit -m "agora arrumei tudo, acho"<br />
         git commit -m "removi aquele .next que atrapalhava"<br />
         git commit -m "a culpa é do front"<br />
         git commit -m "versão final FINAL mesmo"<br />
@@ -29,9 +31,7 @@ function Home() {
         git commit -m "estava funcionando ontem"<br />
         git commit -m "vamos fingir que isso nunca existiu"<br />
         git commit -m "versão estável... até a próxima"<br />
-        git commit -m "testando o voltando no tempo"<br />
         git commit -m "não toque nesse arquivo, por favor"<br />
-        git commit -m "commitado no Curso.Dev"<br />
         git commit -m "parece estar certo"<br />
         git commit -m "é uma jornada, não uma corrida"<br />
       </h2>
